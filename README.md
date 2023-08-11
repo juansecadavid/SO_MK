@@ -12,4 +12,5 @@ Yeison Munoz
 Juan Sebastian Cadavid
 
 
-![Uploading Vídeo sin título ‐ Hecho con Clipchamp (1).gif…]()
+![Vídeo sin título ‐ Hecho con Clipchamp (1)](https://github.com/juansecadavid/SO_MK/assets/71040945/75ef25d1-59a3-43cb-82fd-031ac942ebf5)
+
