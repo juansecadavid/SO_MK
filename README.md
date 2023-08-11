@@ -20,3 +20,7 @@ Emilio José
 
 
 ![SO_MK-Scene1-Windows_-Mac_-Linux-Unity-2021 3 20f1-Personal-_DX11_-2023-08-11-02-30-51](https://github.com/juansecadavid/SO_MK/assets/94581304/87a0e43a-941f-4a86-b1a9-412195398b0b)
+
+
+Juan Esteban Montoya Gómez
+![Tornado](https://github.com/juansecadavid/SO_MK/assets/88934554/4b4dd451-aaaa-45e1-b1e1-3d028f6e9c58)
