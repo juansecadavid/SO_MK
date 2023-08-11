@@ -23,4 +23,8 @@ Emilio José
 
 
 Juan Esteban Montoya Gómez
+
+
+
+
 ![Tornado](https://github.com/juansecadavid/SO_MK/assets/88934554/4b4dd451-aaaa-45e1-b1e1-3d028f6e9c58)
