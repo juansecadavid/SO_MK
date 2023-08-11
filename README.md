@@ -19,7 +19,8 @@ Juan Sebastian Cadavid
 Emilio José
 
 
-![SO_MK-Scene1-Windows_-Mac_-Linux-Unity-2021 3 20f1-Personal-_DX11_-2023-08-11-02-30-51](https://github.com/juansecadavid/SO_MK/assets/94581304/87a0e43a-941f-4a86-b1a9-412195398b0b)
+![so-mk-scene1-windows-mac-linux-unity-2021320f1-personal-dx11-2023-08-11-02_HZNcvj4U (1)](https://github.com/juansecadavid/SO_MK/assets/94581304/bc69c85a-f4c9-4340-b45c-4d4bbd558898)
+
 
 
 Juan Esteban Montoya Gómez
