@@ -9872,6 +9872,8 @@ Transform:
   - {fileID: 1270668087}
   - {fileID: 1072314137}
   - {fileID: 1984057760}
+  - {fileID: 5839972268506312077}
+  - {fileID: 8801172839683550141}
   m_Father: {fileID: 1541119354}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
@@ -24774,12 +24776,12 @@ PrefabInstance:
     - target: {fileID: 1326144288450098452, guid: a0eefaff072fadc408ad39c311288282,
         type: 3}
       propertyPath: UVModule.tilesX
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1326144288450098452, guid: a0eefaff072fadc408ad39c311288282,
         type: 3}
       propertyPath: UVModule.tilesY
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1326144288450098452, guid: a0eefaff072fadc408ad39c311288282,
         type: 3}
@@ -25222,8 +25224,6 @@ Transform:
   m_Children:
   - {fileID: 1805731264}
   - {fileID: 286993692}
-  - {fileID: 8801172839683550141}
-  - {fileID: 5839972268506312077}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -27816,12 +27816,12 @@ PrefabInstance:
     - target: {fileID: 4884083774779913457, guid: a0eefaff072fadc408ad39c311288282,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.93
+      value: 1.14
       objectReference: {fileID: 0}
     - target: {fileID: 4884083774779913457, guid: a0eefaff072fadc408ad39c311288282,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.26
+      value: 2.68
       objectReference: {fileID: 0}
     - target: {fileID: 4884083774779913457, guid: a0eefaff072fadc408ad39c311288282,
         type: 3}
@@ -32783,12 +32783,12 @@ PrefabInstance:
     - target: {fileID: 1326144288450098452, guid: a0eefaff072fadc408ad39c311288282,
         type: 3}
       propertyPath: UVModule.tilesX
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1326144288450098452, guid: a0eefaff072fadc408ad39c311288282,
         type: 3}
       propertyPath: UVModule.tilesY
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1326144288450098452, guid: a0eefaff072fadc408ad39c311288282,
         type: 3}
@@ -37850,7 +37850,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8290733373191085096}
   serializedVersion: 8
-  lengthInSec: 1
+  lengthInSec: 0.6
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -37859,13 +37859,13 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 0
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 0
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -37925,7 +37925,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.3
+      scalar: 0.6
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -39341,8 +39341,8 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     speedRange: {x: 0, y: 1}
-    tilesX: 4
-    tilesY: 2
+    tilesX: 2
+    tilesY: 4
     animationType: 0
     rowIndex: 0
     cycles: 1
@@ -42624,13 +42624,13 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 0
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 0
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 0.3
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -47379,14 +47379,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8290733373191085096}
-  m_LocalRotation: {x: 0.021168385, y: 0.7067899, z: 0.7067899, w: 0.021168385}
-  m_LocalPosition: {x: -1.27, y: 0.6000002, z: -0.053000033}
+  m_LocalRotation: {x: 0.09471702, y: 0.7037104, z: 0.69684917, w: 0.10110282}
+  m_LocalPosition: {x: 0.21, y: 0.83, z: -0.07}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1541119354}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: -86.569, y: 90, z: 90}
+  m_Father: {fileID: 286993692}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: -105.928, y: -88.255005, z: 267.732}
 --- !u!1 &6350402943213361688
 GameObject:
   m_ObjectHideFlags: 0
@@ -47520,7 +47520,7 @@ ParticleSystemRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_RenderMode: 3
+  m_RenderMode: 0
   m_MeshDistribution: 0
   m_SortMode: 0
   m_MinParticleSize: 0
@@ -47531,7 +47531,7 @@ ParticleSystemRenderer:
   m_SortingFudge: 0
   m_NormalDirection: 1
   m_ShadowBias: 0
-  m_RenderAlignment: 0
+  m_RenderAlignment: 2
   m_Pivot: {x: 0, y: 0.5, z: 0}
   m_Flip: {x: 0, y: 0, z: 0}
   m_UseCustomVertexStreams: 0
@@ -47575,11 +47575,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6350402943213361688}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.088, y: 2.173, z: 0.016}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0.088, y: -0.02, z: 2.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1541119354}
-  m_RootOrder: 2
+  m_Father: {fileID: 286993692}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
