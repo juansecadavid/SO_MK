@@ -1,4 +1,7 @@
 # SO_MK
+Ejercicio 2
+![Vídeo-sin-título-‐-Hecho-con-Clipchamp-_3_](https://github.com/juansecadavid/SO_MK/assets/71040945/e7d02691-81a3-48f8-a45d-3f187ec4b537)
+![EscalaGrises1](https://github.com/juansecadavid/SO_MK/assets/71040945/5ccd6bc8-ffa0-448e-9c06-dc98f84d00df)
 
 
 Yeison Munoz
