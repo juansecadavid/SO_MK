@@ -3,7 +3,7 @@
 Ejercicio 3
 
 ## Movimiento de humo: 
-Emilio Jimenes
+Emilio Jimenez
 ![Humo](https://github.com/juansecadavid/SO_MK/assets/94581304/70a38a48-23da-4eb7-a161-cd83fc53b642)
 ![humonodos](https://github.com/juansecadavid/SO_MK/assets/94581304/5f7fcde1-fee6-4965-8940-e523245c4fa8)
 
