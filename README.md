@@ -5,9 +5,11 @@ Ejercicio 3
 Emilio: 
 movimiento de humo
 ![Humo](https://github.com/juansecadavid/SO_MK/assets/94581304/70a38a48-23da-4eb7-a161-cd83fc53b642)
+![humonodos](https://github.com/juansecadavid/SO_MK/assets/94581304/5f7fcde1-fee6-4965-8940-e523245c4fa8)
 
 Textura en espejo
 ![Espejo](https://github.com/juansecadavid/SO_MK/assets/94581304/232b259d-c681-4e28-bc61-2c98ba7c3179)
+![Nodos1](https://github.com/juansecadavid/SO_MK/assets/94581304/07648c76-fa16-419b-94d5-67edc5b266ea)
 
 
 ## Mascaras
