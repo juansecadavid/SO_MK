@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6054346256538807011
+--- !u!114 &-8140822066225243496
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,32 +20,27 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Distorsion
-  m_Shader: {fileID: -6465566751694194690, guid: afa3828bda8fc0d4f8f188a9141823ee,
+  m_Name: Shader Graphs_Distorsion_2
+  m_Shader: {fileID: -6465566751694194690, guid: fd4b5782ba306204c91c6bc8846ae8e7,
     type: 3}
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _DisplacementeDistorsion:
-        m_Texture: {fileID: 2800000, guid: 849bbdfceb870644499425bb3a011f96, type: 3}
-        m_Scale: {x: 0, y: 0}
-        m_Offset: {x: 1, y: 1}
-    - _RefractionTexture:
+    - _Refraction:
         m_Texture: {fileID: 2800000, guid: 9e67694b4f9eb244b9d701774b07fe34, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_d3c59700d0514671994ed0198e56cafa_Texture_1:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Scale: {x: 4.71, y: 2.99}
+        m_Offset: {x: 2.92, y: 3.48}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -60,10 +55,21 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DisplacementAmount: 0.57
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _CastShadows: 1
+    - _Cull: 0
+    - _DstBlend: 10
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionAmount: 4.05
+    - _Refraction_strength: 0.46
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
     m_Colors:
-    - _DisplacementVelocity: {r: 1, g: 0, b: 0, a: 0}
+    - _Color: {r: 0, g: 0.6778945, b: 1, a: 0}
+    - _Offset: {r: 1, g: 1, b: 0, a: 0}
+    - _Tling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []

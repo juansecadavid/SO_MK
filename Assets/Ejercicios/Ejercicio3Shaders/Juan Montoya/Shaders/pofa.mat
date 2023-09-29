@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6054346256538807011
+--- !u!114 &-6341283264595495728
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,30 +20,29 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Distorsion
-  m_Shader: {fileID: -6465566751694194690, guid: afa3828bda8fc0d4f8f188a9141823ee,
+  m_Name: pofa
+  m_Shader: {fileID: -6465566751694194690, guid: 00b4d2bbb6648c94cbadb7823d31e07f,
     type: 3}
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _DisplacementeDistorsion:
-        m_Texture: {fileID: 2800000, guid: 849bbdfceb870644499425bb3a011f96, type: 3}
-        m_Scale: {x: 0, y: 0}
-        m_Offset: {x: 1, y: 1}
-    - _RefractionTexture:
-        m_Texture: {fileID: 2800000, guid: 9e67694b4f9eb244b9d701774b07fe34, type: 3}
+    - _Refraction:
+        m_Texture: {fileID: 2800000, guid: b5d9267fcbdfda54da54295c116119f8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_d3c59700d0514671994ed0198e56cafa_Texture_1:
-        m_Texture: {fileID: 0}
+    - _Texture2DAsset_4701fd4269eb44a997230a5627ee3a69_Out_0:
+        m_Texture: {fileID: 2800000, guid: 9e67694b4f9eb244b9d701774b07fe34, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -60,10 +59,22 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DisplacementAmount: 0.57
+    - _AlphaClip: 0
+    - _Blend: 2
+    - _CastShadows: 1
+    - _Cull: 2
+    - _DstBlend: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionAmount: 4.05
+    - _RefractionStrength: 1.45
+    - _Refraction_strength: 0.19
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
     m_Colors:
-    - _DisplacementVelocity: {r: 1, g: 0, b: 0, a: 0}
+    - _Color: {r: 0, g: 0.43080854, b: 1, a: 0}
+    - _Offset: {r: 2.29, g: 1, b: 0, a: 0}
+    - _Tling: {r: 0.18, g: 2.05, b: 0, a: 0}
   m_BuildTextureStacks: []
