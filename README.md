@@ -2,6 +2,14 @@
 
 Ejercicio 3
 
+Emilio: 
+movimiento de humo
+![Humo](https://github.com/juansecadavid/SO_MK/assets/94581304/70a38a48-23da-4eb7-a161-cd83fc53b642)
+
+Textura en espejo
+![Espejo](https://github.com/juansecadavid/SO_MK/assets/94581304/232b259d-c681-4e28-bc61-2c98ba7c3179)
+
+
 ## Mascaras
 Yeison Muñoz
 
