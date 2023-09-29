@@ -14,6 +14,19 @@ Emilio Jimenez
 
 ## Refracción con Normal Map
 Juan Esteban Montoya
+![refraccion](https://github.com/juansecadavid/SO_MK/assets/88934554/5389bcd0-23c2-4440-9cd5-447dcaf5af90)
+
+Se presentó un inconveniente con la realización de este ejercicio, a continuación te presento el shadergraph de esta solución.
+![refraccion1](https://github.com/juansecadavid/SO_MK/assets/88934554/b850998f-a398-406a-b675-5c7d5cd8db9e)
+
+En efecto, no se encuentra el nodo del scene color debido a que ese nodo me estaba presentando problemas.
+
+Con el scene color:
+![refraccion2](https://github.com/juansecadavid/SO_MK/assets/88934554/5e1b2a1e-60fd-4246-babc-71762cd8b093)
+![refraccion2](https://github.com/juansecadavid/SO_MK/assets/88934554/a11d879f-e8a6-4d9e-954d-9c62a199941e)
+
+
+
 
 ## Coordenadas Polares
 Juan Esteban Montoya
