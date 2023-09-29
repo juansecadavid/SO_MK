@@ -59,7 +59,7 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 2
-    - _Distorsion_strength: 1.52
+    - _Distorsion_strength: 3.96
     - _DstBlend: 10
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -70,6 +70,6 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 0}
-    - _offset: {r: 1.69, g: 2.33, b: 0, a: 0}
-    - _tiling: {r: 1.25, g: 1.21, b: 0, a: 0}
+    - _offset: {r: 4.49, g: 4.39, b: 0, a: 0}
+    - _tiling: {r: 4.12, g: 2.55, b: 0, a: 0}
   m_BuildTextureStacks: []
