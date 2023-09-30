@@ -2,6 +2,18 @@
 
 Ejercicio 3
 
+## Disolver con ruido
+Juan Sebastian Cadavid Carcamo
+![DisolverConRuido](https://github.com/juansecadavid/SO_MK/assets/71040945/39500a30-4c34-431b-bce5-d4a1c418317d)
+![Vídeo sin título ‐ Hecho con Clipchamp](https://github.com/juansecadavid/SO_MK/assets/71040945/2cda108e-42cb-40d1-866e-2cdcf737f7de)
+
+
+
+## Disolver con Textura Pre-Creada
+Juan Sebastian Cadavid Carcamo
+![DisolverTextura](https://github.com/juansecadavid/SO_MK/assets/71040945/9ad827a2-0ff0-48ce-a244-4e96c0137ae4)
+![Disolver textura ‐ Hecho con Clipchamp](https://github.com/juansecadavid/SO_MK/assets/71040945/b728cb54-8aca-48dd-b268-590d61952545)
+
 ## Movimiento de humo: 
 Emilio Jimenez
 ![Humo](https://github.com/juansecadavid/SO_MK/assets/94581304/70a38a48-23da-4eb7-a161-cd83fc53b642)
