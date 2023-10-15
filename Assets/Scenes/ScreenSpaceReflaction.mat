@@ -56,11 +56,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DepthEnd: 20.16
-    - _DepthStart: -2.69
-    - _DistortionScale: 91.6
+    - _DepthEnd: 16.6
+    - _DepthStart: 2.89
+    - _DistortionScale: 73.6
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _DistortionVelocity: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _DistortionVelocity: {r: -0.34, g: -3.18, b: 0, a: 0}
   m_BuildTextureStacks: []
