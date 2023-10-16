@@ -99,18 +99,19 @@ Material:
     - _Cull: 2
     - _Cutoff: 0.5
     - _Densidad: 7.07
-    - _DepthEnd: 17.03
+    - _DepthEnd: 18.14
     - _DepthStart: -0
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Distortion_Scale: 13.1
+    - _Distance: 6.66
+    - _Distortion_Scale: 24.9
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _FoamScale: 55.47
     - _FoamSpeed: 1.58
     - _FoumCutOff: 1.19
-    - _FoumaMOUNT: 0.39
-    - _FresnelPower: 4.03
+    - _FoumaMOUNT: 0.56
+    - _FresnelPower: 4.71
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -140,10 +141,12 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _ColorOlas: {r: 0.52358484, g: 0.7617924, b: 1, a: 1}
-    - _DistorsionVelocity: {r: 0.73, g: 0.03, b: 0, a: 0}
+    - _DeepWater: {r: 0, g: 0.07865143, b: 1, a: 0}
+    - _DistorsionVelocity: {r: 0.8, g: 0.03, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
     - _RefractionScale: {r: 13.67, g: 9.6, b: 0, a: 0}
+    - _ShallowWater: {r: 1, g: 0, b: 0.79692554, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Tiling: {r: 0.2, g: 0.2, b: 0, a: 0}
   m_BuildTextureStacks: []
