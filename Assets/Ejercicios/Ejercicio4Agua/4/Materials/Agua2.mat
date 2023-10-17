@@ -66,7 +66,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Reflections:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 8900000, guid: 47ab16e3c380073499282a355dd4dc3d, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _RefractionNormal:
@@ -103,15 +103,15 @@ Material:
     - _DepthStart: -0
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Distance: 6.66
+    - _Distance: 3.24
     - _Distortion_Scale: 24.9
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FoamScale: 55.47
+    - _FoamScale: 53.55
     - _FoamSpeed: 1.58
     - _FoumCutOff: 1.19
-    - _FoumaMOUNT: 0.56
-    - _FresnelPower: 4.71
+    - _FoumaMOUNT: 0.5
+    - _FresnelPower: 1.9
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -124,9 +124,9 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _RefractionScale: 9.85
-    - _RefractionStrenght: 21.2
+    - _RefractionStrenght: 0.05
     - _Refraction_Speed: -0.37
-    - _Roughness: 1
+    - _Roughness: 0
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -141,12 +141,12 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _ColorOlas: {r: 0.52358484, g: 0.7617924, b: 1, a: 1}
-    - _DeepWater: {r: 0, g: 0.07865143, b: 1, a: 0}
+    - _DeepWater: {r: 0.24679601, g: 0.29699165, b: 0.8867924, a: 0}
     - _DistorsionVelocity: {r: 0.8, g: 0.03, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
-    - _RefractionScale: {r: 13.67, g: 9.6, b: 0, a: 0}
-    - _ShallowWater: {r: 1, g: 0, b: 0.79692554, a: 0}
+    - _RefractionScale: {r: -2, g: -2.4, b: 0, a: 0}
+    - _ShallowWater: {r: 1, g: 1, b: 1, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Tiling: {r: 0.2, g: 0.2, b: 0, a: 0}
   m_BuildTextureStacks: []
