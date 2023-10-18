@@ -6,9 +6,13 @@ Ejercicio 4
 Video Funcionando: https://youtu.be/lC746r2ptbE
 
 Displacement Animado
+
 ![DisplacementAnimado](https://github.com/juansecadavid/SO_MK/assets/71040945/9749e2fd-cf06-4fac-a068-55e8e96ef199)
 
 Refracción
+
+![Refraccion](https://github.com/juansecadavid/SO_MK/assets/71040945/5671d530-b2a5-428e-801e-3ecf67984c24)
+
 
 Color Segun Profundidad
 
