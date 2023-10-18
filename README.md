@@ -11,16 +11,20 @@ Displacement Animado
 Refracción
 
 Color Segun Profundidad
+
 ![ColorSegunProfundidad](https://github.com/juansecadavid/SO_MK/assets/71040945/076f89d8-380b-4c04-97bf-d6e2e31cfca5)
 
 Iluminación especular
+
 ![Especular ‐ Hecho con Clipchamp](https://github.com/juansecadavid/SO_MK/assets/71040945/6ce44a28-5997-45ba-8d9d-148ce752c30e)
 
 
 Reflejos Cubemaps
+
 ![CubeMaps ‐ Hecho con Clipchamp](https://github.com/juansecadavid/SO_MK/assets/71040945/3bdf47b1-cf7d-48b4-978f-e7a9caa4383c)
 
 Intersecciones (Espuma)
+
 ![Espuma](https://github.com/juansecadavid/SO_MK/assets/71040945/f364ebfa-b2fb-490e-8340-63dc00d53708)
 
 
