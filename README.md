@@ -1,4 +1,24 @@
 # SO_MK
+Ejercicio 4
+
+## Shader De Agua
+
+Video Funcionando: https://youtu.be/lC746r2ptbE
+
+Displacement Animado
+![DisplacementAnimado](https://github.com/juansecadavid/SO_MK/assets/71040945/9749e2fd-cf06-4fac-a068-55e8e96ef199)
+
+Refracción
+
+Color Segun Profundidad
+![ColorSegunProfundidad](https://github.com/juansecadavid/SO_MK/assets/71040945/076f89d8-380b-4c04-97bf-d6e2e31cfca5)
+
+Iluminación especular
+
+Reflejos Cubemaps
+![CubeMaps ‐ Hecho con Clipchamp](https://github.com/juansecadavid/SO_MK/assets/71040945/3bdf47b1-cf7d-48b4-978f-e7a9caa4383c)
+
+Intersecciones (Espuma)
 
 Ejercicio 3
 
