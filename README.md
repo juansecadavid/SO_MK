@@ -1,5 +1,18 @@
 # SO_MK
-Ejercicio 4
+
+## Ejercicio 6
+
+## Juan Esteban Montoya Gómez
+
+### Aberración cromática
+
+![Aberracion cromatica](https://github.com/juansecadavid/SO_MK/assets/88934554/d470cbd2-c598-46fc-899d-0f3cf5c83849)
+
+
+![1](https://github.com/juansecadavid/SO_MK/assets/88934554/5b744027-2df6-4d0b-97db-8f250f62ecc3)
+
+
+## Ejercicio 4
 
 ## Shader De Agua
 
