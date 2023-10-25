@@ -2,6 +2,15 @@
 
 ## Ejercicio 6
 
+## Profundidad de campo
+Emilio José Jiménez
+![Profundidad-de-campo-Gif](https://github.com/juansecadavid/SO_MK/assets/94581304/63d7445e-4d84-4288-a8aa-7c14f0da667f)
+
+
+## Aberración cromatica
+Emilio José Jiménez
+![Aberración-Cromática-gif](https://github.com/juansecadavid/SO_MK/assets/94581304/2cba80cf-ead2-45b7-ae73-b7a1ed1ece41)
+
 ## Juan Esteban Montoya Gómez
 
 ### Aberración cromática
