@@ -20,6 +20,12 @@ Emilio José Jiménez
 
 ![1](https://github.com/juansecadavid/SO_MK/assets/88934554/5b744027-2df6-4d0b-97db-8f250f62ecc3)
 
+## Profundidad de campo
+
+![Shader 2](https://github.com/juansecadavid/SO_MK/assets/88934554/1afe4353-3454-4be0-8258-cd0ecb158a41)
+
+![Profundidad de campo](https://github.com/juansecadavid/SO_MK/assets/88934554/235bfedd-bdd4-4b10-a086-c2efd1aa21e7)
+
 
 ## Ejercicio 4
 
