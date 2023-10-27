@@ -2,6 +2,31 @@
 
 ## Ejercicio 6
 
+## Aberración cromatica
+Juan Sebastian Cadavid Carcamo
+
+![Vídeo sin título ‐ Hecho con Clipchamp (1)](https://github.com/juansecadavid/SO_MK/assets/71040945/481f70d3-3e17-4230-82ba-ba17b2649bdc)
+
+
+## Profundidad de campo
+Juan Sebastian Cadavid Carcamo
+
+![Profundidad de campo ‐ Hecho con Clipchamp](https://github.com/juansecadavid/SO_MK/assets/71040945/81bf9be8-d6c1-4306-bcac-83cea3d7f170)
+
+## Yeison Andrés Muñoz Cerón
+
+Profundidad de Campo
+
+![Gif1 ‐ Hecho con Clipchamp](https://github.com/juansecadavid/SO_MK/assets/81535891/8df4771f-0eff-427b-bfed-e2452789d492)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/77bf31e4-0dec-44b7-9561-5c3b6f6ee64f)
+
+
+Aberración Cromática
+
+![Gif2 ‐ Hecho con Clipchamp](https://github.com/juansecadavid/SO_MK/assets/81535891/4212a448-7aaf-4f69-85d5-fe5c52d3cbc0)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/014ca755-0838-4fba-ad3f-07feeb072b55)
+
+
 ## Profundidad de campo
 Emilio José Jiménez
 ![Profundidad-de-campo-Gif](https://github.com/juansecadavid/SO_MK/assets/94581304/63d7445e-4d84-4288-a8aa-7c14f0da667f)
