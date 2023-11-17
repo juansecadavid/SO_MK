@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Blur
-  m_Shader: {fileID: -6465566751694194690, guid: 5aaccf3063fefd34caa5f0e330ed2d51,
+  m_Shader: {fileID: -6465566751694194690, guid: 78c7c3e42a81cae41bc238831e208f27,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -24,10 +24,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BitTexture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _BlitTexture:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -46,9 +42,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AppertureSmoothness: 5
-    - _AppertureStart: 0
-    - _FocalDistance: 5
-    - _PixelOffset: 1.09
+    - _AppertureSmoothness: 40.3
+    - _AppertureStart: 30.2
+    - _FocalDistance: 18.14
+    - _PixelOffset: -0.02
     m_Colors: []
   m_BuildTextureStacks: []
