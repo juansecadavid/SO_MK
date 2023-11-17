@@ -60,10 +60,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _DissolveAmount: 10
-    - _Hue: 0.77811325
+    - _Hue: 0.5202637
     - _NoiseAmunt: 0.983
     - _NoiseAngle: 18.29
-    - _NoisePowert: 0.7835545
+    - _NoisePowert: 0.73708844
     - _NoiseSpeed: 0.93
     - _QueueControl: 0
     - _QueueOffset: 0
