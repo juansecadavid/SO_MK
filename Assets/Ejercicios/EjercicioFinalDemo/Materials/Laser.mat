@@ -59,11 +59,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DissolveAmount: 0.755
-    - _NoiseAmunt: 0.1
-    - _NoiseAngle: 25
+    - _DissolveAmount: 0.766
+    - _NoiseAmunt: 0.342
+    - _NoiseAngle: 20.92
     - _NoisePowert: 2
-    - _NoiseSpeed: -0.8
+    - _NoiseSpeed: 2.9
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
