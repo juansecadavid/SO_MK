@@ -1,5 +1,30 @@
 # SO_MK
 
+## Ejercicio Final
+
+### Referencias
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/10167769-a793-405e-9dee-1bfbcc3de31e)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/640e6322-7165-4d5d-8d09-c70e3fcd0b68)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/3a31c066-c0ac-4ac6-be6a-74723810fb80)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/afe77226-9630-43af-b958-416cd5e91e4d)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/7d822da3-86d0-4120-951b-dfbe2b73d25c)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/469926dd-db34-4f41-a7e8-0f09f1dd0755)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/c2b4df1d-81ac-473f-8e9b-831ffc5afea8)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/dd4cf104-7778-40a9-85f3-a8639b888ea1)
+
+### Recursos
+
+Character - From mixamo
+
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/4989fd9a-6b6f-4b64-a1f3-07ac5262dd59)
+
+Environment - From Unity Asset Store
+
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/ab1dc50d-db13-4a1d-af91-6263416edcb4)
+
+
+
+
 ## Ejercicio 6
 
 ## Aberración cromatica
