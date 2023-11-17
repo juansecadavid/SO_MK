@@ -2,6 +2,9 @@
 
 ## Ejercicio Final
 
+### Link Itch.io
+https://yeyeymc.itch.io/4-effects-unity-shader-graph
+
 ### Referencias
 ![image](https://github.com/juansecadavid/SO_MK/assets/81535891/10167769-a793-405e-9dee-1bfbcc3de31e)
 ![image](https://github.com/juansecadavid/SO_MK/assets/81535891/640e6322-7165-4d5d-8d09-c70e3fcd0b68)
@@ -22,8 +25,15 @@ Environment - From Unity Asset Store
 
 ![image](https://github.com/juansecadavid/SO_MK/assets/81535891/ab1dc50d-db13-4a1d-af91-6263416edcb4)
 
+Materiales
 
-
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/521687b8-2b36-4268-9c4c-e2c5677f56fb)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/a9e510b2-fa8e-4238-a39d-b61836fa1b7d)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/3d2e0322-d718-4030-b6e7-bea1dc1a218c)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/0e234f2b-fa49-45c4-853c-7a4f8f6f3fa2)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/e49189c3-0d1c-4a93-8588-d045c6934b0b)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/4b406e1b-3b81-4ce7-a498-760b04e66761)
+![image](https://github.com/juansecadavid/SO_MK/assets/81535891/de054ba0-889d-4e40-bf5a-2c333efadea1)
 
 ## Ejercicio 6
 
